@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onoffvisions.pages.dev/sitemap.xml
